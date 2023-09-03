@@ -30,9 +30,18 @@ run:
 IntelliJ:
 - [x] import project
 - [x] resolve compilation errors and warnings using dependencies:
-    <img width="490" alt="Skjermbilde 2023-09-03 kl  21 16 38" src="https://github.com/h586613/a1dat250/assets/54099085/e5370c8f-7b94-4715-b30c-58d0cf29004a">
-- [x] 
+<img width="642" alt="Skjermbilde 2023-09-03 kl  20 42 58" src="https://github.com/h586613/a1dat250/assets/54099085/ed74a787-d81f-4116-8cbb-79755f481e2e">
+<img width="1011" alt="Skjermbilde 2023-09-03 kl  20 51 24" src="https://github.com/h586613/a1dat250/assets/54099085/ecf8467b-46d6-4c73-a52c-ca76caf8fb46">
+<img width="490" alt="Skjermbilde 2023-09-03 kl  21 16 38" src="https://github.com/h586613/a1dat250/assets/54099085/e5370c8f-7b94-4715-b30c-58d0cf29004a">
+<img width="301" alt="Skjermbilde 2023-09-03 kl  21 05 35" src="https://github.com/h586613/a1dat250/assets/54099085/7f28f3b6-74d1-496c-baa9-59c8acc16801">
+- [x] commit after changes:
+<img width="1092" alt="Skjermbilde 2023-09-03 kl  21 13 35" src="https://github.com/h586613/a1dat250/assets/54099085/4dd7cede-7e09-4300-b704-df17da848198">
+no logger warning:
+<img width="1259" alt="Skjermbilde 2023-09-03 kl  21 17 31" src="https://github.com/h586613/a1dat250/assets/54099085/619c783c-b1f0-4430-98b4-d31d309ad39e">
 
+Docker:
+- [x] build of image (?) succesful:
+      <img width="694" alt="Skjermbilde 2023-09-03 kl  23 49 19" src="https://github.com/h586613/a1dat250/assets/54099085/029d58d1-b99b-44f2-acbd-f61c6f71be9b">
 
 
 
