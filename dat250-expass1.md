@@ -6,7 +6,7 @@ Installed:
 - [x] sdk
 - [x] gradle
 - [x] git
-- [x] podman (+ init machine)
+- [x] podman
 
 other things:
 - [x] made + cloned repo
