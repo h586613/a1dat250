@@ -1,4 +1,4 @@
-[Docker](https://hub.docker.com/r/hesol/dat250)
+[Docker link](https://hub.docker.com/r/hesol/dat250)
 
 ## Technical problems that you encountered during installation of the software development environment and how you have solved them:
 There were no technical problems during the installation of the software development environment, installation of all new things went smoothly
