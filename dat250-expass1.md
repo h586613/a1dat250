@@ -42,7 +42,7 @@ no logger warning:
 <img width="1259" alt="Skjermbilde 2023-09-03 kl  21 17 31" src="https://github.com/h586613/a1dat250/assets/54099085/619c783c-b1f0-4430-98b4-d31d309ad39e">
 
 Docker:
-- [x] build of image (?) succesful:
+- [x] build of image (?) successful:
       <img width="694" alt="Skjermbilde 2023-09-03 kl  23 49 19" src="https://github.com/h586613/a1dat250/assets/54099085/029d58d1-b99b-44f2-acbd-f61c6f71be9b">
 
 
