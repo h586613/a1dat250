@@ -14,12 +14,15 @@ other things:
 - [x] different gradlew commands and their results:
 
 gradlew check:
+
 <img width="563" alt="Skjermbilde 2023-09-03 kl  19 34 39" src="https://github.com/h586613/a1dat250/assets/54099085/c88e3f5c-8986-4d8e-a008-0cd372964d36">
 
 build:
+
 <img width="677" alt="Skjermbilde 2023-09-03 kl  19 36 09" src="https://github.com/h586613/a1dat250/assets/54099085/c553bfb1-2015-416e-815c-ace28ac777e0">
 
 run:
+
 <img width="684" alt="Skjermbilde 2023-09-03 kl  19 36 56" src="https://github.com/h586613/a1dat250/assets/54099085/90e4c14d-b647-4965-9cf1-02fdbb5cb470">
 
 
