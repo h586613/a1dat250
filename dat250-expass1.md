@@ -38,6 +38,7 @@ IntelliJ:
 <img width="1092" alt="Skjermbilde 2023-09-03 kl  21 13 35" src="https://github.com/h586613/a1dat250/assets/54099085/4dd7cede-7e09-4300-b704-df17da848198">
 <img width="301" alt="Skjermbilde 2023-09-03 kl  21 05 35" src="https://github.com/h586613/a1dat250/assets/54099085/7f28f3b6-74d1-496c-baa9-59c8acc16801">
 no logger warning:
+
 <img width="1259" alt="Skjermbilde 2023-09-03 kl  21 17 31" src="https://github.com/h586613/a1dat250/assets/54099085/619c783c-b1f0-4430-98b4-d31d309ad39e">
 
 Docker:
