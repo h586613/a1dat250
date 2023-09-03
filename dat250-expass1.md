@@ -23,7 +23,9 @@ run:
 <img width="684" alt="Skjermbilde 2023-09-03 kl  19 36 56" src="https://github.com/h586613/a1dat250/assets/54099085/90e4c14d-b647-4965-9cf1-02fdbb5cb470">
 
 
-- [x] commit and push using github desktop
+- [x] commit and push using github desktop:
+<img width="471" alt="Skjermbilde 2023-09-03 kl  20 18 11" src="https://github.com/h586613/a1dat250/assets/54099085/0bde91ee-4871-4dc1-80c2-ebd043b900e2">
+
       
 IntelliJ:
 - [x] import project
