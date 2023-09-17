@@ -3,10 +3,10 @@
 * A link to your code for experiment 2 above. Make sure the included test case passes!:
 
 * An explanation of how you inspected the database tables:
-  <img width="375" alt="Skjermbilde 2023-09-17 kl  20 15 46" src="https://github.com/h586613/a1dat250/assets/54099085/edad814e-5731-4ae6-9759-cc2c4f765728">
 
 
 * what tables were created, screenshots:
+  <img width="375" alt="Skjermbilde 2023-09-17 kl  20 15 46" src="https://github.com/h586613/a1dat250/assets/54099085/edad814e-5731-4ae6-9759-cc2c4f765728">
 
 Questions:
 
