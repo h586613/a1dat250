@@ -13,6 +13,7 @@
 Questions:
 
 Where is the database? Explain the used database and how/when it runs.
+
 when we look at persistence.xml we can see that:
 * the database is located at this url:
   <img width="490" alt="Skjermbilde 2023-09-17 kl  20 21 55" src="https://github.com/h586613/a1dat250/assets/54099085/b29c5987-7e22-4a5a-a402-3fff0caaa114">
