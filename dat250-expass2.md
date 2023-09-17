@@ -1,5 +1,8 @@
 * **Technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved them:**
 
+  not a technical problem, but more of a question: <br>
+  when you say "implement the domain model" in the task, i am happy as soon as i have implemented the relationships, but when looking at the code, i see that there are todos for implementing more than what is specified in the task, or is implementing the getters and setters implied in the task somewhere? This uncertainty is the reason for my usage of Lombok @Getter and @Setter.
+
 * **A link to your code for experiment 2 above. Make sure the included test case passes!:**
 
 * **An explanation of how you inspected the database tables:**
