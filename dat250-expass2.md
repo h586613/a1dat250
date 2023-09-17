@@ -9,7 +9,6 @@ seeing as the @NoArgsConstructor is used in the example-entities, should we use 
 
 
 * **what tables were created, screenshots:**
-<img width="561" alt="Skjermbilde 2023-09-17 kl  22 00 09" src="https://github.com/h586613/a1dat250/assets/54099085/ce5fc3f1-b7af-4a0d-b10d-1da63864773a">
 
 <img width="553" alt="Skjermbilde 2023-09-17 kl  21 58 50" src="https://github.com/h586613/a1dat250/assets/54099085/88b1aef1-fc9c-4b14-b87b-604d2da7bcbb">
 <img width="535" alt="Skjermbilde 2023-09-17 kl  21 59 51" src="https://github.com/h586613/a1dat250/assets/54099085/8793b8f7-a540-4cfc-a104-25be6b278142">
