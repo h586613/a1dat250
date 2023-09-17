@@ -1,7 +1,7 @@
 * **Technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved them:**
 
   not a technical problem, but more of a question: <br>
-seeing as the @NoArgsConstructor is used in the example-entities, should we use it in the implementation as well, or should we use a parameterized(?) constructor (seeing as we need constructors w arguments)?
+seeing as the @NoArgsConstructor is used in the example-entities, should we use it in the implementation as well, or should we use a parameterized(?) constructor (seeing as we need constructors w arguments when it's time to make the objects)?
 
 * **A link to your code for experiment 2 above. Make sure the included test case passes!:**
 
