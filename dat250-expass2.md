@@ -7,7 +7,8 @@
 
 * what tables were created, screenshots:
   <img width="375" alt="Skjermbilde 2023-09-17 kl  20 15 46" src="https://github.com/h586613/a1dat250/assets/54099085/edad814e-5731-4ae6-9759-cc2c4f765728">
-<img width="228" alt="Skjermbilde 2023-09-17 kl  20 18 03" src="https://github.com/h586613/a1dat250/assets/54099085/2f900f07-8d02-4f5e-adc2-e36288a543bc">
+<img width="234" alt="Skjermbilde 2023-09-17 kl  20 18 28" src="https://github.com/h586613/a1dat250/assets/54099085/b46517a4-d2f4-482e-819e-1c92fad1a6cd">
+
 
 Questions:
 
