@@ -1,24 +1,24 @@
-* Technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved them:
+* **Technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved them:**
 
-* A link to your code for experiment 2 above. Make sure the included test case passes!:
+* **A link to your code for experiment 2 above. Make sure the included test case passes!:**
 
-* An explanation of how you inspected the database tables:
+* **An explanation of how you inspected the database tables:**
 
 
-* what tables were created, screenshots:
+* **what tables were created, screenshots:**
   <img width="375" alt="Skjermbilde 2023-09-17 kl  20 15 46" src="https://github.com/h586613/a1dat250/assets/54099085/edad814e-5731-4ae6-9759-cc2c4f765728">
 <img width="234" alt="Skjermbilde 2023-09-17 kl  20 18 28" src="https://github.com/h586613/a1dat250/assets/54099085/b46517a4-d2f4-482e-819e-1c92fad1a6cd">
 
 
 Questions:
 
-Where is the database? Explain the used database and how/when it runs.  
+**Where is the database? Explain the used database and how/when it runs.** 
 <br>when we look at persistence.xml we can see that:
 * the database is located at this url:
   <img width="490" alt="Skjermbilde 2023-09-17 kl  20 21 55" src="https://github.com/h586613/a1dat250/assets/54099085/b29c5987-7e22-4a5a-a402-3fff0caaa114">
 
 
-Can you provide the SQL used to create the table Customer (Hint: Hibernate is used for the object-relational-mapping)?
+**Can you provide the SQL used to create the table Customer (Hint: Hibernate is used for the object-relational-mapping)?**
 <img width="529" alt="Skjermbilde 2023-09-17 kl  20 22 48" src="https://github.com/h586613/a1dat250/assets/54099085/c4ad241c-d068-410b-bca7-96a119985135">
 Hibernate: 
     create table Customer (
@@ -27,5 +27,5 @@ Hibernate:
     )
 
 
-Find a way to inspect the database tables being created and attach a screenshot of the database schema to your report. Do the created tables correspond to your initial thoughts regarding the exercise?
+**Find a way to inspect the database tables being created and attach a screenshot of the database schema to your report. Do the created tables correspond to your initial thoughts regarding the exercise?**
 
