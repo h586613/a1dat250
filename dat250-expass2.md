@@ -1,4 +1,10 @@
+* Technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved them:
 
+* A link to your code for experiment 2 above. Make sure the included test case passes!:
+
+* An explanation of how you inspected the database tables:
+
+* what tables were created, screenshots:
 
 
 Hibernate: 
