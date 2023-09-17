@@ -47,3 +47,5 @@ Hibernate:
 
 **Find a way to inspect the database tables being created and attach a screenshot of the database schema to your report. Do the created tables correspond to your initial thoughts regarding the exercise?**
 
+see above. yes, the tables corresponded to my expectations after learning about how different relations are represented.
+
