@@ -8,6 +8,8 @@
 <img width="223" alt="Skjermbilde 2023-09-17 kl  23 25 30" src="https://github.com/h586613/a1dat250/assets/54099085/d69be00b-34e4-4e8a-bef3-660ec0d6263a">
 
 * **An explanation of how you inspected the database tables:**
+  persistance view -> ERD
+<img width="190" alt="Skjermbilde 2023-09-17 kl  23 50 59" src="https://github.com/h586613/a1dat250/assets/54099085/afdfbc97-1880-4f30-95e1-dec00a9342f3">
 
 
 * **what tables were created, screenshots:**
