@@ -14,6 +14,8 @@
 ![Skjermbilde 2023-09-24 kl  22 07 40](https://github.com/h586613/a1dat250/assets/54099085/21326252-0e6d-493e-816e-13a6197fd8b5)
 ![Skjermbilde 2023-09-24 kl  22 07 54](https://github.com/h586613/a1dat250/assets/54099085/9c446d33-88f7-4df1-892a-3617470e9a3d)
    <br/> U:<br/>
+   <img width="1024" alt="Skjermbilde 2023-09-24 kl  23 03 43" src="https://github.com/h586613/a1dat250/assets/54099085/81aac52e-40b2-499e-b255-7de73f7efba3">
+
    <br/> D:<br/>
 
   - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
