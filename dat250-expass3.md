@@ -18,6 +18,7 @@
 <img width="733" alt="Skjermbilde 2023-09-24 kl  23 04 38" src="https://github.com/h586613/a1dat250/assets/54099085/883f58ce-5601-4139-876b-ff7464a6e272">
 
    <br/> D:<br/>
+<img width="797" alt="Skjermbilde 2023-09-24 kl  23 13 44" src="https://github.com/h586613/a1dat250/assets/54099085/0dc5182c-3394-4a97-8bd5-3cba4b444cc7">
 
   - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 
