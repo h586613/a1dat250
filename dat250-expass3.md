@@ -8,7 +8,11 @@
 
   - Relevant results obtained during Experiment 1 (it is not necessary to put a single screenshot on each substep, but at least one significant from each CRUD operation).<br/>
     C:<br/>
+    ![Skjermbilde 2023-09-24 kl  22 06 53](https://github.com/h586613/a1dat250/assets/54099085/25758bf1-b538-42c3-a121-204b76c35de6)
+    ![Skjermbilde 2023-09-24 kl  22 06 31](https://github.com/h586613/a1dat250/assets/54099085/61510555-d6ad-42ac-a503-fb9a00fe81ce)
     R:<br/>
+![Skjermbilde 2023-09-24 kl  22 07 40](https://github.com/h586613/a1dat250/assets/54099085/21326252-0e6d-493e-816e-13a6197fd8b5)
+![Skjermbilde 2023-09-24 kl  22 07 54](https://github.com/h586613/a1dat250/assets/54099085/9c446d33-88f7-4df1-892a-3617470e9a3d)
     U:<br/>
     D:<br/>
 
