@@ -1,5 +1,4 @@
-<img width="881" alt="Skjermbilde 2023-09-25 kl  00 02 27" src="https://github.com/h586613/a1dat250/assets/54099085/46d980de-fec9-44f9-96e8-37126ecacc24">
-- Technical problems that you encountered during installation and use of MongoDB and how you resolved
+
 
 - Screenshots for:
 
@@ -21,6 +20,9 @@
 <img width="797" alt="Skjermbilde 2023-09-24 kl  23 13 44" src="https://github.com/h586613/a1dat250/assets/54099085/0dc5182c-3394-4a97-8bd5-3cba4b444cc7">
 
 <br/> bulk:<br/> 
+
+<img width="881" alt="Skjermbilde 2023-09-25 kl  00 02 27" src="https://github.com/h586613/a1dat250/assets/54099085/46d980de-fec9-44f9-96e8-37126ecacc24">
+
 <img width="871" alt="Skjermbilde 2023-09-25 kl  00 02 41" src="https://github.com/h586613/a1dat250/assets/54099085/4ac98f08-bd02-45e3-80ca-7dd045a9f699">
 
   - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
