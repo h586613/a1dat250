@@ -24,6 +24,7 @@
 <img width="871" alt="Skjermbilde 2023-09-25 kl  00 02 41" src="https://github.com/h586613/a1dat250/assets/54099085/4ac98f08-bd02-45e3-80ca-7dd045a9f699">
 
   - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
+<img width="669" alt="Skjermbilde 2023-09-25 kl  00 21 01" src="https://github.com/h586613/a1dat250/assets/54099085/36617e2e-25a2-4f21-a955-f919072dbcd9">
 
 - Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained. 
 
