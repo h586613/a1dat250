@@ -26,6 +26,9 @@
   - Experiment 2 example working and the additional Map-reduce operation (and its result) developed by each of you.
 <img width="669" alt="Skjermbilde 2023-09-25 kl  00 21 01" src="https://github.com/h586613/a1dat250/assets/54099085/36617e2e-25a2-4f21-a955-f919072dbcd9">
 
-- Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained. 
+- Reason about why your implemented Map-reduce operation in Experiment 2 is useful and interpret the collection obtained:
+  an average is always useful to have, for instance for statistical purposes. <br/>
+  averageAgeIntermediateResult gives us the opportunity to get even more information:
+  total sum of age-field and the number of objects/documents gives us that there is a higher number of documents where age is on the older side.
 
 - Any pending issues with this assignment which you did not manage to solve
