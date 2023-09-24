@@ -15,6 +15,7 @@
 ![Skjermbilde 2023-09-24 kl  22 07 54](https://github.com/h586613/a1dat250/assets/54099085/9c446d33-88f7-4df1-892a-3617470e9a3d)
    <br/> U:<br/>
    <img width="1024" alt="Skjermbilde 2023-09-24 kl  23 03 43" src="https://github.com/h586613/a1dat250/assets/54099085/81aac52e-40b2-499e-b255-7de73f7efba3">
+<img width="733" alt="Skjermbilde 2023-09-24 kl  23 04 38" src="https://github.com/h586613/a1dat250/assets/54099085/883f58ce-5601-4139-876b-ff7464a6e272">
 
    <br/> D:<br/>
 
