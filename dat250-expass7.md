@@ -8,6 +8,7 @@
    [link](https://github.com/h586613/a7)<br/> <br/>
 
 4. any pending issues with this assignment which you did not manage to solve: <br/>
+   none.
 
 
 
